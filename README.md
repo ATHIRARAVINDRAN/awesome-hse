@@ -67,6 +67,7 @@ Curated by the team at [SmartQHSE](https://www.smartqhse.com) — the AI-powered
 - [Riskonnect](https://riskonnect.com) — Integrated risk management suite.
 - [ProcessMAP](https://www.processmap.com) — EHS and risk management platform.
 - [IndustrySafe](https://www.industrysafe.com) — Incident and audit management.
+- [300log](https://300log.com/) — OSHA 300, 301 and 300A recordkeeping and ITA filing for US safety and HR teams.
 - [EHS Insight](https://www.ehsinsight.com) — Mid-market EHS focused on mobile inspections.
 - [Assurance Software](https://assuranceriskmanagers.com/) — Risk and compliance management.
 - [ETQ Reliance](https://www.etq.com) — Quality + EHS management platform.
